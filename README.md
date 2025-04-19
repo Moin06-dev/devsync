@@ -96,7 +96,6 @@ Do not redistribute without permission.
 - 🌐 [Portfolio](https://personal-portfolio-main-six.vercel.app/)
 - 🐙 [GitHub](https://github.com/Moin06-dev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/moinuddinkhan06)
-```
 
 
 
